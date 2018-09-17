@@ -12,3 +12,6 @@ C:\Users\amabe\Documents\Projects\Reps\LifeApi.Tests\obj\Debug\netcoreapp2.1\Lif
 C:\Users\amabe\Documents\Projects\Reps\LifeApi.Tests\obj\Debug\netcoreapp2.1\LifeApi.Tests.AssemblyInfo.cs
 C:\Users\amabe\Documents\Projects\Reps\LifeApi.Tests\obj\Debug\netcoreapp2.1\LifeApi.Tests.dll
 C:\Users\amabe\Documents\Projects\Reps\LifeApi.Tests\obj\Debug\netcoreapp2.1\LifeApi.Tests.pdb
+C:\Users\amabe\Documents\Projects\Reps\LifeApi.Tests\bin\Debug\netcoreapp2.1\LifeApi.dll
+C:\Users\amabe\Documents\Projects\Reps\LifeApi.Tests\bin\Debug\netcoreapp2.1\LifeApi.pdb
+C:\Users\amabe\Documents\Projects\Reps\LifeApi.Tests\obj\Debug\netcoreapp2.1\LifeApi.Tests.csproj.CopyComplete

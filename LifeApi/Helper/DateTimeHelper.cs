@@ -15,7 +15,14 @@ namespace LifeApi.Helper
         /// <inheritdoc />
         public string GenerateDateStamp(DateTime time)
         {
-            return time.ToString("MMddyyyy");
+            string dateStamp = String.Empty;
+
+            if (time != DateTime.MinValue)
+            {
+                dateStamp = time.ToString("MMddyyyy");
+            }
+
+            return dateStamp;
         }
     }
 }

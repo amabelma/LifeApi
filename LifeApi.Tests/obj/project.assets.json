@@ -1617,6 +1617,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "LifeApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/LifeApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LifeApi.dll": {}
+        }
       }
     }
   },
@@ -5712,10 +5725,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "LifeApi/1.0.0": {
+      "type": "project",
+      "path": "../LifeApi/LifeApi.csproj",
+      "msbuildProject": "../LifeApi/LifeApi.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "LifeApi >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
@@ -5749,7 +5768,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\amabe\\Documents\\Projects\\Reps\\LifeApi\\LifeApi.csproj": {
+              "projectPath": "C:\\Users\\amabe\\Documents\\Projects\\Reps\\LifeApi\\LifeApi.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
