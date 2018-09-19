@@ -1,7 +1,7 @@
 using System;
-using LifeApi.Helper.Interfaces;
+using LifeApi.Helpers.Interfaces;
 
-namespace LifeApi.Helper
+namespace LifeApi.Helpers
 {
     /// <inheritdoc />
     public class DateTimeHelper : IDateTimeHelper

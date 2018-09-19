@@ -5748,11 +5748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amabe\\Documents\\Projects\\Reps\\LifeApi.Tests\\LifeApi.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\amabe\\Desktop\\DME_Projects\\ProjectWork\\LifeApi\\LifeApi.Tests\\LifeApi.Tests.csproj",
       "projectName": "LifeApi.Tests",
-      "projectPath": "C:\\Users\\amabe\\Documents\\Projects\\Reps\\LifeApi.Tests\\LifeApi.Tests.csproj",
+      "projectPath": "C:\\Users\\amabe\\Desktop\\DME_Projects\\ProjectWork\\LifeApi\\LifeApi.Tests\\LifeApi.Tests.csproj",
       "packagesPath": "C:\\Users\\amabe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amabe\\Documents\\Projects\\Reps\\LifeApi.Tests\\obj\\",
+      "outputPath": "C:\\Users\\amabe\\Desktop\\DME_Projects\\ProjectWork\\LifeApi\\LifeApi.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5769,8 +5769,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\amabe\\Documents\\Projects\\Reps\\LifeApi\\LifeApi.csproj": {
-              "projectPath": "C:\\Users\\amabe\\Documents\\Projects\\Reps\\LifeApi\\LifeApi.csproj"
+            "C:\\Users\\amabe\\Desktop\\DME_Projects\\ProjectWork\\LifeApi\\LifeApi\\LifeApi.csproj": {
+              "projectPath": "C:\\Users\\amabe\\Desktop\\DME_Projects\\ProjectWork\\LifeApi\\LifeApi\\LifeApi.csproj"
             }
           }
         }

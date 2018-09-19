@@ -1,6 +1,6 @@
 using System;
 
-namespace LifeApi.Helper.Interfaces
+namespace LifeApi.Helpers.Interfaces
 {
     /// <summary>
     /// Will format dates as strings as expected by the database.

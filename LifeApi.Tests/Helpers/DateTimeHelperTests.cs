@@ -1,4 +1,4 @@
-using LifeApi.Helper;
+using LifeApi.Helpers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
